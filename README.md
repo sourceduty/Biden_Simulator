@@ -16,6 +16,12 @@ Moreover, the GPT maintains a commitment to aligning with Biden's known policies
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Trump Simulator](https://github.com/sourceduty/Trump_Simulator)
+<br>
+[Government](https://github.com/sourceduty/Government)
+<br>
+[Politics](https://github.com/sourceduty/Politics)
+<br>
+[Government Automation](https://github.com/sourceduty/Government_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
