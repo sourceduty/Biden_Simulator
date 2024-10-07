@@ -1,4 +1,4 @@
-![Biden](https://github.com/user-attachments/assets/e837cc28-b3b2-4ebc-a305-9703ce6e58ee)
+![Uncle Sam](https://github.com/user-attachments/assets/4d47a751-899a-4489-a258-c9e49b3be013)
 
 > Simulate the decisions and operations of Joe Biden as a political figure.
 
@@ -9,6 +9,10 @@
 The GPT is designed to interact through a structured process, guiding users through complex political scenarios using a step-by-step, multiple-choice format. This allows for an interactive experience that simulates the decision-making process of a U.S. President, addressing issues like legislative strategy, diplomatic negotiations, or crisis management. The user is presented with options that reflect real-world policy choices, providing insights into how President Biden might approach various challenges.
 
 Moreover, the GPT maintains a commitment to aligning with Biden's known policies and perspectives. It avoids making uncharacteristic decisions that would be inconsistent with his public statements or actions. The overall aim is to provide an engaging and informative experience that showcases how Joe Biden’s leadership might play out in different situations, helping users understand the complexities of political leadership and decision-making from the perspective of the current U.S. administration.
+
+#
+
+![Biden](https://github.com/user-attachments/assets/e837cc28-b3b2-4ebc-a305-9703ce6e58ee)
 
 #
 ### Related Links
